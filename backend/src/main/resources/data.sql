@@ -1,0 +1,21 @@
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Velma Mccall','156.234.678-09' , TIMESTAMP WITHOUT TIME ZONE '1992-11-13T20:50:07.12345Z', 1, 21000.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Frederick Holt','339.817.700-05' , TIMESTAMP WITHOUT TIME ZONE '1963-07-22T20:50:07.12345Z', 3, 14250.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Lucie Goodman','254.274.678-09' , TIMESTAMP WITHOUT TIME ZONE '1956-02-02T03:10:07.12345Z', 2, 12000.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Roosevelt Duke','296.665.410-41' , TIMESTAMP WITHOUT TIME ZONE '1979-05-31T20:50:07.12345Z', 5, 6330.97);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Rebekah Stafford','436.575.820-96' , TIMESTAMP WITHOUT TIME ZONE '1958-04-18T20:50:07.12345Z', 3, 3000.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Harris Barnes','160.977.030-74' , TIMESTAMP WITHOUT TIME ZONE '1982-11-26T20:50:07.12345Z', 0, 8545.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Mathew Valenzuela','248.610.450-02' , TIMESTAMP WITHOUT TIME ZONE '2002-10-17T20:50:07.12345Z', 3, 3756.90);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Daniella Bowen','488.522.340-71' , TIMESTAMP WITHOUT TIME ZONE '1934-03-23T20:50:07.12345Z', 1, 4532.99);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Roy Black','480.030.440-73' , TIMESTAMP WITHOUT TIME ZONE '1997-09-30T20:50:07.12345Z', 4, 9450.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Anisa Collier','728.982.110-60' , TIMESTAMP WITHOUT TIME ZONE '1985-12-06T20:50:07.12345Z', 3, 1250.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Angela Gilbert','694.227.790-81' , TIMESTAMP WITHOUT TIME ZONE '1971-11-05T20:50:07.12345Z', 0, 5765.38);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Hannah Bauer','838.066.200-83' , TIMESTAMP WITHOUT TIME ZONE '1963-03-18T20:50:07.12345Z', 3, 4100.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Alesha Moreno','628.494.120-07' , TIMESTAMP WITHOUT TIME ZONE '1946-08-23T20:50:07.12345Z', 1, 5463.25);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Ben Lara','603.976.880-08' , TIMESTAMP WITHOUT TIME ZONE '1999-07-09T20:50:07.12345Z', 7, 13000.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Helena Ayala','140.604.890-93' , TIMESTAMP WITHOUT TIME ZONE '1924-06-11T20:50:07.12345Z', 2, 7200.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Abdul Ferrell','501.397.450-09' , TIMESTAMP WITHOUT TIME ZONE '1999-12-16T20:50:07.12345Z', 0, 3644.88);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Aoife Burns','906.164.340-65' , TIMESTAMP WITHOUT TIME ZONE '2003-10-25T20:50:07.12345Z', 6, 3000.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Lorenzo Becker','445.477.420-06' , TIMESTAMP WITHOUT TIME ZONE '1991-09-30T20:50:07.12345Z', 2, 7500.00);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Aliyah Coleman','704.338.920-80' , TIMESTAMP WITHOUT TIME ZONE '1955-01-01T20:50:07.12345Z', 1, 2780.99);
+INSERT INTO tb_client (name,cpf, birth_date,  children, income) VALUES ('Louis Ayers','996.190.310-24' , TIMESTAMP WITHOUT TIME ZONE '1943-09-24T20:50:07.12345Z', 3, 5500.00);
+
